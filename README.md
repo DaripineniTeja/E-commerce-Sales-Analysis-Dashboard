@@ -1,10 +1,10 @@
-📊 ** E-commerce Sales Analysis Dashboard **
+**📊 E-commerce Sales Analysis Dashboard**
 
-🔎 ** Project Overview **
+**🔎 Project Overview**
 
 This project showcases an interactive Excel dashboard designed to analyze e-commerce sales performance. It provides stakeholders with a clear view of key metrics such as sales, profit, orders, quantity, and profit margin, enabling data-driven decision-making.
 
-🎯** Objectives **
+**🎯Objectives**
 
 Track and visualize overall sales performance.
 
@@ -16,7 +16,7 @@ Highlight top-performing and underperforming products.
 
 Provide dynamic filtering for deeper insights.
 
-✨** Key Features **
+**✨Key Features**
 
 KPI Cards for Sales, Profit, Orders, Quantity, and Profit Margin with YOY growth.
 
@@ -30,7 +30,7 @@ Top 5 Sub-Category Funnel to highlight product contributions.
 
 Interactive Filters (Year, Segment, Region) for dynamic drill-downs.
 
-🛠️ ** Tools & Skills Used **
+**🛠️Tools & Skills Used**
 
 Excel: Pivot Tables, Pivot Charts, Conditional Formatting, Maps, Slicers.
 
@@ -38,7 +38,7 @@ Data Cleaning & Transformation: Using formulas & structured references.
 
 Dashboard Design: Layout structuring, chart formatting, color gradients.
 
-📌 ** Outcomes **
+**📌Outcomes **
 
 Simplified business performance tracking in one dashboard.
 
@@ -48,12 +48,12 @@ Supported strategic decisions in marketing, inventory, and sales planning.
 
 Delivered a professional, visually appealing dashboard suitable for executives.
 
-🚀 ** How to Use **
+**🚀How to Use**
 
-Open the Excel file.
+1.Open the Excel file.
 
-Use slicers/filters (Year, Segment, Region) to adjust the view.
+2.Use slicers/filters (Year, Segment, Region) to adjust the view.
 
-Review KPIs and charts to extract insights.
+3.Review KPIs and charts to extract insights.
 
-Drill into specific categories or regions for deeper analysis.
+4.Drill into specific categories or regions for deeper analysis.
